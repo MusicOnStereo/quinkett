@@ -1,15 +1,4 @@
-#include <iostream>
-#include <map>
-#include <vector>
-#include <list>
-#include <variant>
-#include <stack>
-#include <queue>
-#include <string>
-#include <functional>
-#include <algorithm>
-#include <memory>
-
+#include "header.hpp"
 #include "compiler.cpp"
 #include "interpreter.cpp"
 
