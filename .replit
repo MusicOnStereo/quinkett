@@ -1,0 +1,2 @@
+run="clang++-7 -pthread -std=c++17 -o main main.cpp; ./main"
+# "clang++-7 -pthread -std=c++17 -o main main.cpp -fsanitize=address -g3 -O0 -Wall -Wextra -Wpedantic -Weffc++; ./main;"
